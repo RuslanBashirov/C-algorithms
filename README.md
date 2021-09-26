@@ -1,3 +1,3 @@
-# C-algorithms
+# C++-algorithms
 
 Some C++ training problems
